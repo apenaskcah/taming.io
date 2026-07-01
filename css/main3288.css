@@ -64,42 +64,47 @@ body {
 	--gold0  : #ddab52;
 }
 
+/* ==========================================================================
+   FONTES CORRIGIDAS PARA GITHUB PAGES - TAMING.IO
+   ========================================================================== */
+
+/* Peso Light (300) */
 @font-face {
   font-family: 'Rowdies';
   font-style: normal;
   font-weight: 300;
   font-display: swap;
-  src: url('../font/_ptRMTieMYPNBAK219hth1On4KA.woff2') format('woff2');
+  src: url('/taming.io/font/_ptRMTieMYPNBAK219hth1On4KA.woff2') format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 
-/* Peso Regular (400) - Latin Ext (Usa o arquivo real terminado em r5DwdbZ.woff2) */
+/* Peso Regular (400) - Ext */
 @font-face {
   font-family: 'Rowdies';
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url('../font/_ptRJTieMYPNBAK21_r5DwdbZ.woff2') format('woff2');
+  src: url('/taming.io/font/_ptRJTieMYPNBAK21_r5DwdbZ.woff2') format('woff2');
   unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 
-/* Peso Regular (400) - Latin (Usa o arquivo real terminado em rBDwQ.woff2) */
+/* Peso Regular (400) */
 @font-face {
   font-family: 'Rowdies';
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url('../font/_ptRJTieMYPNBAK21_rBDwQ.woff2') format('woff2');
+  src: url('/taming.io/font/_ptRJTieMYPNBAK21_rBDwQ.woff2') format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 
-/* Peso Bold (700) - Força o arquivo mais robusto para os títulos pesados do jogo */
+/* Peso Bold (700) */
 @font-face {
   font-family: 'Rowdies';
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url('../font/_ptRJTieMYPNBAK21_rBDwQ.woff2') format('woff2');
+  src: url('/taming.io/font/_ptRJTieMYPNBAK21_rBDwQ.woff2') format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 
